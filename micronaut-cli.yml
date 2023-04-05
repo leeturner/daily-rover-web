@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.leeturner
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, gradle, http-client, junit, junit-params, kotlin, kotlin-application, kotlin-build, kotlin-extension-functions, logback, micronaut-build, netty-server, properties, readme, serialization-jackson, shade, views-thymeleaf]
